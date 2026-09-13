@@ -1,0 +1,15 @@
+{
+  "name": "Volume",
+  "version": "1.0.0",
+  "app-version": "1.5.0-beta.16",
+  "minimum-app-version": "1.5.0",
+  "id": "de_ntnn_streamcontroller_Volume",
+  "github": "https://github.com/ntnn/streamcontroller-plugins",
+  "descriptions": {
+    "en_US": "Control the default wireplumber sink and source: adjust volume with a dial, toggle mute for output and microphone. State updates are event-driven via pw-dump."
+  },
+  "short-descriptions": {
+    "en_US": "Volume and mute control for wireplumber."
+  },
+  "tags": ["Audio", "Utility"]
+}
